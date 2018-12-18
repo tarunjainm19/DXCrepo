@@ -1,0 +1,16 @@
+https://www.dropbox.com/s/xwzi7u5ex96qgtg/ML-Sep22.zip?dl=0 
+https://www.webwhiteboard.com/
+http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization 
+# for to understand cost function x an Y
+https://www.youtube.com/watch?v=b4Vyma9wPHo 
+setwd("C:/Project/Training/Machine Learning/ML-Sep22/ML-Sep22/Day9/LR-CaseStudy-RM")
+
+https://attendee.gototraining.com/r/8972633201792934145 
+Ravi khurana
+ravikh@hotmail.com
+
+https://lms.collabera.com/moodle/mod/resource/view.php?id=23768
+ravikhh
+Ravikhh1!
+
+https://en.wikipedia.org/wiki/TensorFlow
